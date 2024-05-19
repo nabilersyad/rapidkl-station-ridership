@@ -1,0 +1,153 @@
+,origin,passengers
+0,AG01: Sentul Timur,79095
+1,AG02: Sentul,58246
+2,AG03: Titiwangsa,61173
+3,AG04: PWTC,90498
+4,AG05: Sultan Ismail,19543
+5,AG06: Bandaraya,120045
+6,AG07: Masjid Jamek,278524
+7,AG08: Plaza Rakyat,81868
+8,AG09: Hang Tuah,110025
+9,AG10: Pudu,116495
+10,AG11: Chan Sow Lin,35475
+11,AG12: Miharja,35126
+12,AG13: Maluri,80090
+13,AG14: Pandan Jaya,80862
+14,AG15: Pandan Indah,63915
+15,AG16: Cempaka,86543
+16,AG17: Cahaya,63535
+17,AG18: Ampang,96977
+18,BRT01: Sunway-Setia Jaya,32807
+19,BRT02: Mentari,22809
+20,BRT03: Sunway Lagoon,71491
+21,BRT04: SunMed,71478
+22,BRT05: SunU-Monash,64936
+23,BRT06: South Quay-USJ 1,47549
+24,KG04: Kwasa Damansara,20635
+25,KG05: Kwasa Sentral,83020
+26,KG06: Kota Damansara,114911
+27,KG07: Surian,148727
+28,KG08: Mutiara Damansara,127779
+29,KG09: Bandar Utama,204772
+30,KG10: TTDI,113388
+31,KG12: Phileo Damansara,76880
+32,KG13: Pusat Bandar Damansara,58078
+33,KG14: Semantan,132582
+34,KG15: Muzium Negara,252462
+35,KG16: Pasar Seni,160320
+36,KG17: Merdeka,55265
+37,KG18: Bukit Bintang,615746
+38,KG20: Tun Razak Exchange,248385
+39,KG21: Cochrane,210355
+40,KG22: Maluri,289604
+41,KG23: Taman Pertama,70581
+42,KG24: Taman Midah,79059
+43,KG25: Taman Mutiara,155653
+44,KG26: Taman Connaught,117342
+45,KG27: Taman Suntex,78180
+46,KG28: Sri Raya,55762
+47,KG29: Bandar Tun Hussien Onn,83855
+48,KG30: Batu 11 Cheras,71194
+49,KG31: Bukit Dukung,62097
+50,KG33: Sungai Jernih,77175
+51,KG34: Stadium Kajang,70839
+52,KG35: Kajang,173434
+53,KJ01: Gombak,110185
+54,KJ02: Taman Melati,150897
+55,KJ03: Wangsa Maju,237291
+56,KJ04: Sri Rampai,123174
+57,KJ05: Setiawangsa,110880
+58,KJ06: Jelatek,78091
+59,KJ07: Dato' Keramat,39436
+60,KJ08: Damai,59383
+61,KJ09: Ampang Park,313320
+62,KJ10: KLCC,603356
+63,KJ11: Kampung Baru,79081
+64,KJ12: Dang Wangi,108546
+65,KJ13: Masjid Jamek,195483
+66,KJ14: Pasar Seni,286859
+67,KJ15: KL Sentral,560891
+68,KJ16: Bank Rakyat Bangsar,210028
+69,KJ17: Abdullah Hukum,305635
+70,KJ18: Kerinchi,167210
+71,KJ19: Universiti,178809
+72,KJ20: Taman Jaya,101091
+73,KJ21: Asia Jaya,136120
+74,KJ22: Taman Paramount,63678
+75,KJ23: Taman Bahagia,69563
+76,KJ24: Kelana Jaya,73389
+77,KJ25: Lembah Subang,89208
+78,KJ26: Ara Damansara,114398
+79,KJ27: Cgc Glenmarie,102216
+80,KJ28: Subang Jaya,146319
+81,KJ29: SS 15,124371
+82,KJ30: SS 18,27599
+83,KJ31: USJ 7,70864
+84,KJ32: Taipan,60208
+85,KJ33: Wawasan,41562
+86,KJ34: USJ 21,39939
+87,KJ35: Alam Megah,39605
+88,KJ36: Subang Alam,14464
+89,MR01: KL Sentral,203926
+90,MR02: Tun Sambanthan,41683
+91,MR03: Maharajalela,21938
+92,MR04: Hang Tuah,116124
+93,MR05: Imbi,149849
+94,MR06: Bukit Bintang,264084
+95,MR07: Raja Chulan,91421
+96,MR08: Bukit Nanas,96850
+97,MR09: Medan Tuanku,95978
+98,MR10: Chow Kit,116701
+99,MR11: Titiwangsa,56307
+100,PYL03: Kampung Selamat,35547
+101,PYL04: Sungai Buloh,82352
+102,PYL05: Damansara Damai,46348
+103,PYL06: Sri Damansara Barat,25898
+104,PYL07: Sri Damansara Sentral,12674
+105,PYL08: Sri Damansara Timur,20635
+106,PYL09: Metro Prima,43539
+107,PYL10: Kepong Baru,25488
+108,PYL11: Jinjang,19664
+109,PYL12: Sri Delima,12757
+110,PYL13: Kampung Batu,25576
+111,PYL14: Kentomen,14173
+112,PYL15: Jalan Ipoh,9994
+113,PYL16: Sentul Barat,26771
+114,PYL17: Titiwangsa,13139
+115,PYL18: Hospital Kuala Lumpur,30125
+116,PYL19: Raja Uda,19618
+117,PYL20: Ampang Park,90604
+118,PYL21: Persiaran KLCC,56018
+119,PYL22: Conlay,26263
+120,PYL24: Chan Sow Lin,16418
+121,PYL27: Kuchai,36855
+122,PYL28: Taman Naga Emas,18393
+123,PYL29: Sungai Besi,30731
+124,PYL31: Serdang Raya Utara,21763
+125,PYL32: Serdang Raya Selatan,10917
+126,PYL33: Serdang Jaya,10749
+127,PYL34: UPM,23232
+128,PYL36: Taman Equine,25875
+129,PYL37: Putra Permai,10129
+130,PYL38: 16 Sierra,6400
+131,PYL39: Cyberjaya Utara,20770
+132,PYL40: Cyberjaya City Centre,12328
+133,PYL41: Putrajaya Sentral,47190
+134,SP12: Cheras,52836
+135,SP13: Salak Selatan,74564
+136,SP14: Bandar Tun Razak,41426
+137,SP15: Bandar Tasik Selatan,153047
+138,SP16: Sungai Besi,27813
+139,SP17: Bukit Jalil,92459
+140,SP18: Sri Petaling,34886
+141,SP19: Awan Besar,56464
+142,SP20: Muhibbah,42447
+143,SP21: Alam Sutera,31138
+144,SP22: Kinrara,64142
+145,SP24: IOI Puchong Jaya,77485
+146,SP25: Pusat Bandar Puchong,65365
+147,SP26: Taman Perindustrian Puchong,30402
+148,SP27: Bandar Puteri,37818
+149,SP28: Puchong Perdana,42714
+150,SP29: Puchong Prima,74621
+151,SP31: Putra Heights,75121
